@@ -311,10 +311,12 @@ img {
 
 .team {
   background-color: var(--grey-color);
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .team-container {
-  padding: 94px 0px;
+  /*padding: 94px 0px;*/
 }
 
 .team-title {
@@ -379,7 +381,6 @@ img {
 }
 
 .footer {
-  margin-top: 94px;
   background-color: rgba(47, 48, 58, 1);
   padding: 60px 0px 60px 0px;
 }
@@ -433,6 +434,8 @@ address-list-body {
 }
 
 .portfolio-work-gallary {
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .portfolio-container {
@@ -443,7 +446,7 @@ address-list-body {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
-  margin-top: 94px;
+  
 }
 
 .portfolio-btn-item {
