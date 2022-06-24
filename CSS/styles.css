@@ -438,9 +438,10 @@ address-list-body {
   padding-bottom: 94px;
 }
 
-.portfolio-container {
-  /*padding: 94px 0px 94px 0px;*/
-}
+/*.portfolio-container {
+  padding: 94px 0px 94px 0px;
+}*/
+
 
 .portfolio-btn-list {
   display: flex;
@@ -483,6 +484,7 @@ address-list-body {
 .portfolio-cards-list {
   display: flex;
   justify-content: center;
+  
   flex-wrap: wrap;
 }
 
